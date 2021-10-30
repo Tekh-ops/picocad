@@ -1,0 +1,11 @@
+// After running picoCAD for the first time, this configuration file is not used. 
+// Instead you can find it in:
+//   Windows: %AppData%/Roaming/pico-8/config.txt
+//   OSX: ~/Library/Application Support/pico-8/config.txt
+//   Linux: ~/.lexaloffle/pico-8/config.txt
+
+windowed 1
+
+gif_len 30
+
+
